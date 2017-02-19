@@ -4,4 +4,6 @@ QQ5.0抽屉式侧滑菜单的实现（继承HorizontalScrollView，自定义Slid
 * onLayout()：决定子View放置的位置
 * onTouchEvent
 
+![summary](https://github.com/ykmeory/SlidingMenu/blob/master/summary.jpg "总结")
+-----
 ![screenshot](https://github.com/ykmeory/SlidingMenu/blob/master/screenshot.jpg "截图")
